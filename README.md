@@ -1,8 +1,8 @@
-### Olá! Eu sou o Thomas Magela 
+### Olá!! Eu sou o Thomas Magela 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-magela/)
 
-[![Thomas Magela GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmagela01&show_icons=true&theme=dark)](https://github.com/thomasmagela01/github-readme-stats)
+[![Thomas Magela GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmagela01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
